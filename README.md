@@ -3,7 +3,7 @@
 <br>
 </div>
 
- <img src="[ruta_de_la_imagen.jpg](https://media.licdn.com/dms/image/D4E16AQGgPtjbJgxCBA/profile-displaybackgroundimage-shrink_350_1400/0/1697390400226?e=1703116800&v=beta&t=gKY2JEt91TXscSuFrSubLetVZIaIBWrJBaWGfN6xJzg)" alt="BannerProfile">
+ <img src="https://media.licdn.com/dms/image/D4E16AQGgPtjbJgxCBA/profile-displaybackgroundimage-shrink_350_1400/0/1697390400226?e=1703116800&v=beta&t=gKY2JEt91TXscSuFrSubLetVZIaIBWrJBaWGfN6xJzg" alt="BannerProfile">
 <br>
 
 <h3>Linkedin Profile : 
