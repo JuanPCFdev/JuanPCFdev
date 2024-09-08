@@ -9,8 +9,8 @@
 https://www.linkedin.com/in/juancuellar-dev/</h3>
 
 <br>
-## Sobre mi
-
+## About me
 - 📲 Mobile developer
-- Estudiante en Universidad Distrital Francisco Jose de Caldas. Sistematización de Datos
+- Native Android
+- Technologist in Data Systematization, Francisco José de Caldas District University
 <br>
