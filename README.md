@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Juan Cuellar, desarrollador de software.</a> 👋</h1>
+<h1 align="center">Juan Cuellar, mobile developer.</a> 👋</h1>
 <br>
 </div>
 
