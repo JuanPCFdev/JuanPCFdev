@@ -2,8 +2,7 @@
 <h1 align="center">Juan Cuellar, mobile developer.</a> 👋</h1>
 <br>
 </div>
-
- <img src="https://media.licdn.com/dms/image/D4E16AQEDaLAlou74KQ/profile-displaybackgroundimage-shrink_350_1400/0/1698098709068?e=1710979200&v=beta&t=0XMIQXUsi40RCc47R8muQQ_hBjjThxj8ssUI9vMoHic">
+ <img src="./Images/Portada de Facebook Negro y Amarillo Halcón Moderno Gamer Esports.png">
 <br>
 
 <h3>Linkedln Profile : 
