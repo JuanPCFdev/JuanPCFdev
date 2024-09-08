@@ -14,6 +14,9 @@
 - Technologist in Data Systematization, Francisco José de Caldas District University
 <br>
 
+## 💻 Lenguajes y herramientas:
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## 📊 GitHub Stats:
 <p align="center">
 <a href="https://github.com/JuanPCFdev">
